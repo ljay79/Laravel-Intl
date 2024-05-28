@@ -10,6 +10,8 @@
 Easy to use internationalization functions for Laravel 5 based on various libraries for easy retrieval of
 localized values and formatting of numeric values into their localized patterns.
 
+This is a fork of [Propaganistas/Laravel-Intl](https://github.com/Propaganistas/Laravel-Intl). I will continue to maintain this package because I use it extensively in my own projects.
+
 ### Overview
 
 * [Installation](#installation)
